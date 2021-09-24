@@ -256,7 +256,6 @@ function RecoverCartesianMesh()
 	global nodeCoords_; global eNodMat_; 
 	global carEleMapBack_; global carEleMapForward_;
 	global carNodMapBack_; global carNodMapForward_;
-	global eleCentroidList_;
 	%    __ x
 	%   / 
 	%  -y         
