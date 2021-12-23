@@ -5,7 +5,7 @@
 clear
 clc
 
-stressfileName = './data/cantilever2D_R500_iLoad5.vtk';
+stressfileName = './data/cantilever2D_R500_iLoad5.carti';
 samplingSpace = 20; %%control the density of the tensor glyphs (negatively-related) (evenly-spaced seeding per-elements)
 scalingGlyph = 1.0; %%control the size of tensor glyphs (positively-related)
 
